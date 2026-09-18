@@ -2,3 +2,4 @@
 Test
 Commit 2
 Commit 3
+"Testing Git graph"
