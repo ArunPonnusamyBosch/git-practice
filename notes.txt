@@ -1,4 +1,4 @@
-//direclt on main "Hello Git1" 
+"Hello Git1" 
 Test
 Commit 2
 Commit 3
