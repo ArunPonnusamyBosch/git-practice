@@ -9,3 +9,4 @@ Github setup done
 #clone done 
 pushed from main
 created a brach called feature2
+pushed the branch to git hub git
