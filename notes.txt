@@ -6,3 +6,4 @@ Commit 3
 Changes done on feature branch
 2 time feature portal
 Github setup done
+#clone done 
